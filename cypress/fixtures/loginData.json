@@ -1,0 +1,24 @@
+{
+  "production": {
+    "login": {
+      "username": "tester999@gmail.com",
+      "password": "Tester@999",
+      "invalid_username": "tester123.qa@gmail.com",
+      "invalid_password": "Cypress@123"
+      },
+      "message": {
+        "errorMessage": " Warning: No match for E-Mail Address and/or Password."
+      }
+    },
+  "uat": {
+    "login": {
+      "username": "tester111@gmail.com",
+      "password": "Tester@111",
+      "invalid_username": "tester1234@gmail.com",
+      "invalid_password": "Cypress@987"
+     },
+    "message": {
+      "errorMessage": " Warning: No match for E-Mail Address and/or Password."
+    }
+  }
+}
