@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anchana20/Logifuture_QA_FE.git"
+    "url": "git+https://github.com/Anchana20/Logifuture_Assessment.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Anchana20/Logifuture_QA_FE/issues"
+    "url": "https://github.com/Anchana20/Logifuture_Assessment/issues"
   },
-  "homepage": "https://github.com/Anchana20/Logifuture_QA_FE#readme",
+  "homepage": "https://github.com/Anchana20/Logifuture_Assessment#readme",
   "devDependencies": {
     "cypress": "^14.0.1",
     "cypress-mochawesome-reporter": "^3.8.2",

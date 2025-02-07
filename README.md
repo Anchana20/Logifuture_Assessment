@@ -18,7 +18,7 @@ Before running the tests, ensure you have the following installed:
 
 # Setup and Installation
 1. Clone the repository:
-git clone https://github.com/Anchana20/Logifuture_QA_FE.git
+git clone https://github.com/Anchana20/Logifuture_Assessment.git
 
 2. Install dependencies:
 npm init
